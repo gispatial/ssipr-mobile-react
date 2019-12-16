@@ -1,4 +1,4 @@
-<img src="/docs/rnsk-logo.jpg" alt="React Native Starter Kit" width="400" />
+<img src="https://github.com/gispatial/ssipr-mobile-react/blob/master/Screen%20Shot%202019-12-17%20at%204.17.38%20AM.png" alt="React Native Starter Kit" width="400" />
 
 [![GitHub tag](https://img.shields.io/github/tag/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-kit/tags)
 [![GitHub contributors](https://img.shields.io/github/contributors/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-kit/contributors)
