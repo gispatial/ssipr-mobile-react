@@ -1,28 +1,28 @@
 <img src="https://github.com/gispatial/ssipr-mobile-react/blob/master/Screen%20Shot%202019-12-17%20at%204.17.38%20AM.png" alt="React Native Starter Kit" width="400" />
 
-[![GitHub tag](https://img.shields.io/github/tag/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-kit/tags)
-[![GitHub contributors](https://img.shields.io/github/contributors/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-kit/contributors)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/mcnamee/react-native-starter-kit/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-kit/issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-kit/issues-closed)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/mcnamee/react-native-starter-kit/issues-pr)
+[![GitHub tag](https://github.com/gispatial/ssipr-mobile-react/react-native-starter-kit.svg?style=flat-square)](https://github.com/gispatial/ssipr-mobile-react/tags)
+[![GitHub contributors](https://github.com/gispatial/ssipr-mobile-react/react-native-starter-kit.svg?style=flat-square)](https://github.com/gispatial/ssipr-mobile-react/contributors)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/ssipr-mobile-react/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/gispatial/ssipr-mobile-react/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/gispatial/ssipr-mobile-react/issues-closed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/mcnamee/react-native-starter-kit.svg?style=flat-square)](https://github.com/gispatial/ssipr-mobile-react/issues-pr)
 
 ---
 
 [![CryptoTip](https://img.shields.io/badge/Donate%20with-CryptoTip-blue.svg?style=flat&colorB=007bff)](https://cryptotip.it/p/mcnamee)  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U7CE3LJYX859E)
 
-# React (Web + Native) Starter Kit
+# React (Web + Native) Starter Kit for SSIPR Project
 
 #### For when you're looking to build 'the next big thing' for both web and native mobile.
 
-<a href="http://react-boilerplate.mcnam.ee/"><img src="/docs/web-demo.jpg" alt="Web Demo" height="50" /></a>
-<a href="https://expo.io/@mcnamee/react-native-starter-kit"><img src="/docs/expo-demo.jpg" alt="React Native Expo Demo" height="50" /></a>
+<a href="http://react7.tech/"><img src="/docs/web-demo.jpg" alt="Web Demo" height="50" /></a>
+<a href="https://github.com/gispatial/ssipr-mobile-react/"><img src="/docs/expo-demo.jpg" alt="React Native Expo Demo" height="50" /></a>
 
 ---
 
 ## 👋 Intro
 
-This boilerplate launches with a [React web app](https://reactjs.org/) and [React Native app](https://facebook.github.io/react-native/) sharing a single code base. It shares the 'business logic' (_i.e. models, containers_) across the platforms, whilst allowing flexibility in View components to ensure your project looks and feels native in each platform.
+This boilerplate launches with a [React web app](https://reactjs.org/) and [React Native app](https://facebook.github.io/react7tech/) sharing a single code base. It shares the 'business logic' (_i.e. models, containers_) across the platforms, whilst allowing flexibility in View components to ensure your project looks and feels native in each platform.
 
 The project is _super_ helpful to kick-start your next project, as it provides a lot of the common tools you may reach for, all ready to go. Specifically:
 
@@ -74,7 +74,7 @@ _*It's recommended that you install [React Native Debugger](https://github.com/j
 
 ```bash
 # Clone the repo
-git clone https://github.com/mcnamee/react-native-starter-kit.git
+git clone https://github.com/gispatial/ssipr-mobile-react.git
 
 # Install dependencies
 yarn install
@@ -109,12 +109,11 @@ Via webpack, starts a localhost server on port 3001 [http://localhost:3001](http
 
 ## 👊 Further Help?
 
-This repo is a great place to start, but if you'd prefer to sit back and have your new project built for you, [get in touch with me directly](https://mcnam.ee) and I can organise a quote.
+This repo is a great place to start, but if you'd prefer to sit back and have your new project built for you, [get in touch with us directly](https://gispatial.tech/) and we can organise a quote.
 
 ---
 
 ## 💡 Inspiration
 
-- [This blog post](http://jkaufman.io/react-web-native-codesharing/) helped put the ideas into action
+- [This blog post](https://mcnam.ee/) helped put the ideas into action
 
-_If there's any other ideas presented in this repo, that you think worth mentioning - feel free open a pull request :)_
