@@ -1,0 +1,13 @@
+node_modules
+assets
+examples
+.DS_Store
+*.log
+.eslintignore
+.eslintrc
+.gitignore
+.stylelintrc
+travis.yml
+devServer.js
+webpack.config.*.js
+lib/**/__tests__/*.*
